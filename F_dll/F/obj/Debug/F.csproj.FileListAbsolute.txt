@@ -1,0 +1,6 @@
+/Users/a.korytko/RiderProjects/F/F/bin/Debug/F.dll
+/Users/a.korytko/RiderProjects/F/F/bin/Debug/F.pdb
+/Users/a.korytko/RiderProjects/F/F/obj/Debug/F.csprojAssemblyReference.cache
+/Users/a.korytko/RiderProjects/F/F/obj/Debug/F.csproj.CoreCompileInputs.cache
+/Users/a.korytko/RiderProjects/F/F/obj/Debug/F.dll
+/Users/a.korytko/RiderProjects/F/F/obj/Debug/F.pdb
